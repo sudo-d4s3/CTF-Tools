@@ -2,4 +2,5 @@
 
 brutus.py - latin rotation bruteforcer<br />
 qad.py - Qwerty to Dvorak and vice versa<br />
-ascii_rot - ascii rotation bruteforcer
+ascii_rot.py - ascii rotation bruteforcer<br />
+affine.py - affine bruteforcer (not optimized)
